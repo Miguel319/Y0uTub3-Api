@@ -6,7 +6,22 @@ export const environment = {
   production: false
 };
 
-//AIzaSyCJD92FwVnaLvo40tKhack9ASoBQwNkdbE
+export const endPoint = "https://www.googleapis.com/youtube/v3";
+
+export const apiKey = "AIzaSyCJD92FwVnaLvo40tKhack9ASoBQwNkdbE";
+export const playListId = "UU29ju8bIPH5as8OGnQzwJyA";
+
+/*
+API-KEY
+AIzaSyCJD92FwVnaLvo40tKhack9ASoBQwNkdbE
+
+Playlist Id
+UU29ju8bIPH5as8OGnQzwJyA
+  
+  
+NEXT-PAGE TOKEN
+CAUQAA
+  * /
 
 /*
  * For easier debugging in development mode, you can import the following file
